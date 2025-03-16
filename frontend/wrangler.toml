@@ -1,7 +1,0 @@
-name = "akanksha"
-main = "src/worker.js"
-compatibility_date = "2025-03-16"
-
-
-[site]
-bucket = "./dist"

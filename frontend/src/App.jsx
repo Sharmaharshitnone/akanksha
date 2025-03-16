@@ -26,7 +26,7 @@ function App() {
                         animate={{ opacity: 1 }}
                         transition={{ duration: 0.5 }}
                     >
-                        Akanksha.dev
+                        Akanksha.me
                     </motion.div>
                     <motion.div
                         className="hidden md:flex space-x-8"
@@ -388,7 +388,7 @@ function App() {
                                 <h3 className="text-xl font-bold mb-6">Connect With Me</h3>
                                 <div className="space-y-6">
                                     <motion.a
-                                        href="mailto:akanksha@example.com"
+                                        href="mailto:2342342"
                                         className="flex items-center gap-4 p-4 bg-slate-50 dark:bg-slate-700 rounded-lg shadow-md"
                                         whileHover={{ x: 10 }}
                                     >
@@ -401,7 +401,7 @@ function App() {
                                         </div>
                                     </motion.a>
                                     <motion.a
-                                        href="https://github.com/akanksha"
+                                        href="https://github.com/akankshahu"
                                         className="flex items-center gap-4 p-4 bg-slate-50 dark:bg-slate-700 rounded-lg shadow-md"
                                         whileHover={{ x: 10 }}
                                     >
@@ -423,7 +423,7 @@ function App() {
                                         </div>
                                         <div>
                                             <div className="font-medium">LinkedIn</div>
-                                            <div className="text-slate-600 dark:text-slate-400">linkedin.com/in/akanksha</div>
+                                            <div className="text-slate-600 dark:text-slate-400">Na</div>
                                         </div>
                                     </motion.a>
                                 </div>
